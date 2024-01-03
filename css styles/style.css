@@ -27,3 +27,15 @@ li{
     text-decoration: none;
     padding: 0;
 }
+img{
+    width: 600px;
+    height: 500px;
+
+}
+#image{
+    border: none;
+    box-shadow: 10px 10px 10px black;
+    margin:auto;
+    padding: 10px;
+    width: 80%;
+}
